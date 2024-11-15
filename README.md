@@ -1,4 +1,4 @@
-# Ronak's Portfolio
+# Vanshika's Portfolio
 
 Welcome to Ronak's Portfolio! This personal portfolio website showcases my projects, skills, and experience.
 
@@ -36,9 +36,8 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/RONAKBAGRI/Portfolio
+   git clone https://github.com/Vanshika-Sharmaa/Portfolio
 
 2. **Visit my website:**
-   ```bash
-   Click to go https://ronakbagri.github.io/Portfolio/
+   [Click to go here](https://vanshika-sharmaa.github.io/Portfolio/)
    
