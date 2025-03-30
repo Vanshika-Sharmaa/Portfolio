@@ -1,6 +1,6 @@
 # Vanshika's Portfolio
 
-Welcome to Ronak's Portfolio! This personal portfolio website showcases my projects, skills, and experience.
+Welcome to Vanshika's Portfolio! This personal portfolio website showcases my projects, skills, and experience.
 
 ## Overview
 
